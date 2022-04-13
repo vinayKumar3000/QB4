@@ -1,0 +1,299 @@
+{
+  "classes": [
+    {
+      "className": 6,
+      "studentresults": [
+        {
+          "studentName": "anurag",
+          "rank": 4,
+          "peformanceLevel": "Below-Level",
+          "completedPercent": "45%",
+          "mid1Score": 286,
+          "mid2score": 250,
+          "finalscore": 312
+        },
+        {
+          "studentName": "akash",
+          "rank": 3,
+          "peformanceLevel": "Above-Level",
+          "completedPercent": "95%",
+          "mid1Score": 345,
+          "mid2score": 382,
+          "finalscore": 412
+        },
+        {
+          "studentName": "pavan",
+          "rank": 1,
+          "peformanceLevel": "Above-Level",
+          "completedPercent": "75%",
+          "mid1Score": 456,
+          "mid2score": 422,
+          "finalscore": 487
+        },
+        {
+          "studentName": "ram",
+          "rank": 2,
+          "peformanceLevel": "On-Level",
+          "completedPercent": "67%",
+          "mid1Score": 365,
+          "mid2score": 402,
+          "finalscore": 412
+        },
+        {
+          "studentName": "vivek",
+          "rank": 2,
+          "peformanceLevel": "Above-Level",
+          "completedPercent": "87%",
+          "mid1Score": 375,
+          "mid2score": 405,
+          "finalscore": 500
+        },
+        {
+          "studentName": "shashank",
+          "rank": 2,
+          "peformanceLevel": "On-Level",
+          "completedPercent": "85%",
+          "mid1Score": 475,
+          "mid2score": 482,
+          "finalscore": 498
+        }
+      ]
+    },
+    {
+      "className": 7,
+      "studentresults": [
+        {
+          "studentName": "rithwik",
+          "rank": 4,
+          "peformanceLevel": "Below-Level",
+          "completedPercent": "45%",
+          "mid1Score": 286,
+          "mid2score": 250,
+          "finalscore": 312
+        },
+        {
+          "studentName": "aravind",
+          "rank": 3,
+          "peformanceLevel": "Below-Level",
+          "completedPercent": "45%",
+          "mid1Score": 345,
+          "mid2score": 382,
+          "finalscore": 412
+        },
+        {
+          "studentName": "varsha",
+          "rank": 1,
+          "peformanceLevel": "Above-Level",
+          "completedPercent": "75%",
+          "mid1Score": 456,
+          "mid2score": 422,
+          "finalscore": 487
+        },
+        {
+          "studentName": "rishabhi",
+          "rank": 2,
+          "peformanceLevel": "On-Level",
+          "completedPercent": "67%",
+          "mid1Score": 365,
+          "mid2score": 402,
+          "finalscore": 412
+        },
+        {
+          "studentName": "shreya",
+          "rank": 2,
+          "peformanceLevel": "Above-Level",
+          "completedPercent": "87%",
+          "mid1Score": 375,
+          "mid2score": 405,
+          "finalscore": 500
+        },
+        {
+          "studentName": "anudeep",
+          "rank": 2,
+          "peformanceLevel": "On-Level",
+          "completedPercent": "85%",
+          "mid1Score": 475,
+          "mid2score": 482,
+          "finalscore": 498
+        }
+      ]
+    },
+    {
+      "className": 8,
+      "studentresults": [
+        {
+          "studentName": "Tharun",
+          "rank": 4,
+          "peformanceLevel": "Below-Level",
+          "completedPercent": "45%",
+          "mid1Score": 286,
+          "mid2score": 250,
+          "finalscore": 312
+        },
+        {
+          "studentName": "prabhas",
+          "rank": 3,
+          "peformanceLevel": "Below-Level",
+          "completedPercent": "45%",
+          "mid1Score": 345,
+          "mid2score": 382,
+          "finalscore": 412
+        },
+        {
+          "studentName": "teja",
+          "rank": 1,
+          "peformanceLevel": "Above-Level",
+          "completedPercent": "75%",
+          "mid1Score": 456,
+          "mid2score": 422,
+          "finalscore": 487
+        },
+        {
+          "studentName": "Raghav",
+          "rank": 2,
+          "peformanceLevel": "On-Level",
+          "completedPercent": "67%",
+          "mid1Score": 365,
+          "mid2score": 402,
+          "finalscore": 412
+        },
+        {
+          "studentName": "vyshnavi",
+          "rank": 2,
+          "peformanceLevel": "Above-Level",
+          "completedPercent": "87%",
+          "mid1Score": 375,
+          "mid2score": 405,
+          "finalscore": 500
+        },
+        {
+          "studentName": "Sravani",
+          "rank": 2,
+          "peformanceLevel": "On-Level",
+          "completedPercent": "85%",
+          "mid1Score": 475,
+          "mid2score": 482,
+          "finalscore": 498
+        }
+      ]
+    },
+    {
+      "className": 9,
+      "studentresults": [
+        {
+          "studentName": "Rathod",
+          "rank": 4,
+          "peformanceLevel": "Below-Level",
+          "completedPercent": "45%",
+          "mid1Score": 286,
+          "mid2score": 250,
+          "finalscore": 312
+        },
+        {
+          "studentName": "vikram",
+          "rank": 3,
+          "peformanceLevel": "Below-Level",
+          "completedPercent": "45%",
+          "mid1Score": 345,
+          "mid2score": 382,
+          "finalscore": 412
+        },
+        {
+          "studentName": "anoop",
+          "rank": 1,
+          "peformanceLevel": "Above-Level",
+          "completedPercent": "75%",
+          "mid1Score": 456,
+          "mid2score": 422,
+          "finalscore": 487
+        },
+        {
+          "studentName": "rose",
+          "rank": 2,
+          "peformanceLevel": "On-Level",
+          "completedPercent": "67%",
+          "mid1Score": 365,
+          "mid2score": 402,
+          "finalscore": 412
+        },
+        {
+          "studentName": "rachel",
+          "rank": 2,
+          "peformanceLevel": "Above-Level",
+          "completedPercent": "87%",
+          "mid1Score": 375,
+          "mid2score": 405,
+          "finalscore": 500
+        },
+        {
+          "studentName": "praveen",
+          "rank": 2,
+          "peformanceLevel": "On-Level",
+          "completedPercent": "85%",
+          "mid1Score": 475,
+          "mid2score": 482,
+          "finalscore": 498
+        }
+      ]
+    },
+    {
+      "className": 10,
+      "studentresults": [
+        {
+          "studentName": "ankith",
+          "rank": 4,
+          "peformanceLevel": "Below-Level",
+          "completedPercent": "45%",
+          "mid1Score": 286,
+          "mid2score": 250,
+          "finalscore": 312
+        },
+        {
+          "studentName": "prabhu",
+          "rank": 3,
+          "peformanceLevel": "Below-Level",
+          "completedPercent": "45%",
+          "mid1Score": 345,
+          "mid2score": 382,
+          "finalscore": 412
+        },
+        {
+          "studentName": "charan",
+          "rank": 1,
+          "peformanceLevel": "Above-Level",
+          "completedPercent": "75%",
+          "mid1Score": 456,
+          "mid2score": 422,
+          "finalscore": 487
+        },
+        {
+          "studentName": "Shreya",
+          "rank": 2,
+          "peformanceLevel": "On-Level",
+          "completedPercent": "67%",
+          "mid1Score": 365,
+          "mid2score": 402,
+          "finalscore": 412
+        },
+        {
+          "studentName": "Samantha",
+          "rank": 2,
+          "peformanceLevel": "Above-Level",
+          "completedPercent": "87%",
+          "mid1Score": 375,
+          "mid2score": 405,
+          "finalscore": 500
+        },
+        {
+          "studentName": "Saketh",
+          "rank": 2,
+          "peformanceLevel": "On-Level",
+          "completedPercent": "85%",
+          "mid1Score": 475,
+          "mid2score": 482,
+          "finalscore": 498
+        }
+      ]
+    }
+  ]
+}

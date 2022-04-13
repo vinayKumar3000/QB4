@@ -1,0 +1,25 @@
+.custom-select {
+  width: 20%;
+}
+.fas:hover {
+  color: #fff;
+  background-color: black;
+  padding: 3px;
+  border-radius: 3px;
+}
+.container {
+  margin-bottom: 10px;
+}
+@media only screen and (max-width: 800px) {
+  .finalScore {
+    display: none;
+  }
+  .column-left {
+    display: none;
+  }
+}
+@media only screen and (min-width: 800px) {
+  i.angle {
+    display: none;
+  }
+}
