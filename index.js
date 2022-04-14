@@ -84,7 +84,7 @@ function displayClass(students) {
     td1.textContent = student.rank;
     var td2 = document.createElement("td");
     td2.className = "l";
-    td2.textContent = student.completedPercent + student.peformanceLevel;
+    td2.textContent = student.completedPercent + " " + student.peformanceLevel;
     var td3 = document.createElement("td");
     td3.className = "l";
     td3.textContent = student.mid1Score;
